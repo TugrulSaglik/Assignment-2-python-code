@@ -1,0 +1,38 @@
+=== STRUCTURAL ANALYSIS REPORT ===
+
+--- EQUATION NUMBERING ---
+Node  1 | DX:  0 | DY:  0 | RZ:  1
+Node  2 | DX:  2 | DY:  3 | RZ:  4
+Node  3 | DX:  5 | DY:  6 | RZ:  7
+Node  4 | DX:  8 | DY:  0 | RZ:  9
+
+Total Equations: 9
+
+--- STRUCTURAL DISPLACEMENTS ---
+Eq  1:  -1.1455e-02
+Eq  2:   3.1277e-02
+Eq  3:   5.4511e-04
+Eq  4:  -8.0362e-03
+Eq  5:   3.5791e-02
+Eq  6:  -1.8750e-02
+Eq  7:  -3.3992e-03
+Eq  8:   2.5593e-02
+Eq  9:  -3.3992e-03
+
+--- MEMBER END FORCES ---
+
+Member 1:
+  Start -> Axial:    -0.73, Shear:    14.51, Moment:     3.54
+  End   -> Axial:     0.73, Shear:   -14.51, Moment:    40.00
+
+Member 2:
+  Start -> Axial:    -4.51, Shear:   -10.73, Moment:   -40.00
+  End   -> Axial:     4.51, Shear:    10.73, Moment:    -2.91
+
+Member 3:
+  Start -> Axial:    25.00, Shear:     0.00, Moment:     0.00
+  End   -> Axial:   -25.00, Shear:    -0.00, Moment:     0.00
+
+Member 4:
+  Start -> Axial:    -6.95, Shear:    -0.13, Moment:    -3.54
+  End   -> Axial:     6.95, Shear:     0.13, Moment:     2.91
